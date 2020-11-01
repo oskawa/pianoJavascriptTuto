@@ -17,7 +17,7 @@ Javascript :
 
 HTML : 
 - Id personnalisés : 'data-note'
-- <audio>
+- balise audio
   
 CSS :
 - calc
